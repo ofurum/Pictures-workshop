@@ -1,0 +1,30 @@
+.header-container{
+    position: relative;
+
+    .header-menu{
+        position: absolute;
+        left: 0px;
+        padding: 0px;
+        top: 100px;
+        font-family: "Syncopate", sans-serif;
+        letter-spacing: 1px;
+        list-style-type: none;
+            li{
+                margin: 10px 0;
+            }
+        
+          
+    }
+
+    #header-text{
+        text-align: center;
+        font-size:  20vw;
+        font-family: "Bai Jamjuree", sans-serif;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+
+    .lineChildren {
+        transform: translate(0, 500px)
+    }
+}

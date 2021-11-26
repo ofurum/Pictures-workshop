@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Syncopate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Syncopate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Poppins:wght@200&family=Syncopate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@300&family=Bodoni+Moda&family=Poppins:wght@200&family=Syncopate&display=swap');
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    cursor: none;
+}
+
+.loader-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: black;
+    color: white;
+    margin-left: -5vw;
+    margin-right: -5vw;
+    text-transform: uppercase;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+
+
